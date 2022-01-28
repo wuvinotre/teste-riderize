@@ -15,9 +15,10 @@
 
 ## Resultado:
 
-![5df623a5-e509-4874-b2bf-ddd618fc6034](https://user-images.githubusercontent.com/48601030/151626017-63c31ec4-9e7d-455b-b775-536b4e5a754e.jpg)
-
-![445da93c-cb91-4896-8d3a-7522668897e9](https://user-images.githubusercontent.com/48601030/151626064-891b6bcf-c4e6-4731-b409-323016236cb0.jpg)
+<div>
+<img src="https://user-images.githubusercontent.com/48601030/151626017-63c31ec4-9e7d-455b-b775-536b4e5a754e.jpg" width="414px " height="896px" />
+<img src="https://user-images.githubusercontent.com/48601030/151626064-891b6bcf-c4e6-4731-b409-323016236cb0.jpg" width="414px " height="896px" />
+</div>
 
 ## Dificuldade:
 
