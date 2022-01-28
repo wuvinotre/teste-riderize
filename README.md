@@ -7,6 +7,7 @@
 * react-native-vector-icons - **Ionicons**.
 * styled-components.
 * Hooks: useState, useEffect.
+* React Navigation
 
 ## Sobre: 
 
